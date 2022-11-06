@@ -5,5 +5,3 @@
  |_| \__,_|_\_\\_, |_|_| is here...
                |__/     
 ```
-
-<a rel="me" href="https://m.rakyll.org/@rakyll">Mastodon</a>
